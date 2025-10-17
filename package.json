@@ -1,0 +1,11 @@
+{
+  "name": "learn-multimedia-explainer",
+  "version": "1.0.0",
+  "description": "Multimedia Explainer - Interactive learning platform",
+  "scripts": {
+    "start": "npx serve . -p ${PORT:-3000}"
+  },
+  "keywords": ["multimedia", "explainer", "education"],
+  "author": "Mahmoud Almardini"
+}
+

@@ -14,3 +14,9 @@ desktop.ini
 *.tmp
 *.temp
 
+# Node modules
+node_modules/
+package-lock.json
+
+# Railway
+.railway/
